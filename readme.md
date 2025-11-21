@@ -26,7 +26,7 @@ Source `.bashrc`
 # Install utilities
 
 ```sh
-sdkmanager --sdk_root=$ANDROID_SDK_ROOT "platform-tools" "emulator" "build-toolsbuild-tools;36.0.0"
+sdkmanager --sdk_root=$ANDROID_SDK_ROOT "platform-tools" "emulator" "build-tools;36.0.0"
 ```
 
 # update env
